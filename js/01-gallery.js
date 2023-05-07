@@ -35,7 +35,4 @@ function onAddImg(evt) {
       }
     }
     }
-    else {
-    return;
-    }
 }
